@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'helveticaneueregular';
+    src: url('helveticaneue.woff2') format('woff2'),
+         url('helveticaneue.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'helveticaneuemedium';
+    src: url('helveticaneuemed.woff2') format('woff2'),
+         url('helveticaneuemed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
